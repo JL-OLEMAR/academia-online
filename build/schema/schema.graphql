@@ -55,10 +55,10 @@ type Curso {
 }
 
 enum Nivel {
-    TODOS
-    NOVATOS
-    INTERMEDIO
-    EXPERTO
+    ALL
+    NEWBIE
+    MEDIUM
+    EXPERT
 }
 
 type Valoracion {
